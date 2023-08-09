@@ -20,7 +20,7 @@ In September 2021, a significant jump in seismic activity on the island of La Pa
 
 +++
 
-# Introduction - MODIFIED
+# Introduction
 
 > The content of your article is written in MyST markdown and supports [standard markdown typography](https://mystmd.org/guide/typography) and many [directives and roles](https://mystmd.org/guide/syntax-overview) for figures, tables, equations, etc.
 
